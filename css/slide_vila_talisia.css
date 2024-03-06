@@ -1,0 +1,55 @@
+.vila_talisia{
+  width: 300px;
+  height: 200px;
+}
+
+.vila_talisia:hover {
+  /* box-shadow: none !important; */
+}
+
+
+
+
+.slide_vila {
+  width: 100% !important;
+  height: 200px !important; 
+ 
+  /* border: 1px solid red; */
+}
+
+.slide_vila:hover {
+  /* box-: none !important; */
+}
+
+.slide_img{
+  width: 100%;
+  position: relative;
+}
+
+.vila_slide{
+  height: 380px;
+}
+
+
+
+.link_vila{
+  position: absolute;
+  z-index: 1;
+  bottom: 20px;
+  left: 20px;
+  color: black;
+  background: yellow;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none !important; 
+}
+
+.link_vila:hover{
+  color: black !important;
+  background: yellow !important;
+ 
+}
+
+
+
